@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "What Goes Around（Instrumental）",
+  "base_artist": "hololive English -Advent-",
+  "createdAt": "2026-02-27T02:10:50.800758Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Goes Around",
+      "artist": "hololive English -Advent-",
+      "has_synced": false,
+      "path": "select/pl_01_What_Goes_Around_hololive_English_-Advent-.txt"
+    }
+  ]
+}
